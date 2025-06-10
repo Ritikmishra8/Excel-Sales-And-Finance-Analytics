@@ -82,3 +82,16 @@ The company needed clear and insightful Excel-based reports to understand their:
 
 This project was a hands-on learning experience that demonstrated how **Excel** can be used to **drive business insights**. It strengthened my skills in **data analysis, visualization, and storytelling**, and I look forward to applying these in real-world **data analyst roles**.
 
+## 📊 Reports
+
+- 📄 [Customer Performance Report](Customer%20Performance%20Report.pdf)
+- 📄 [Division Level Report](Division%20Level%20Report.pdf)
+- 📄 [Gross Margin% (GM%) For (Sub_Zone) Report By Quarters](Gross%20Margin%25%20(GM%25)%20For%20(Sub_Zone)%20Report%20By%20Quarters.pdf)
+- 📄 [Market Performance Vs Target](Market%20Performance%20Vs%20Target.pdf)
+- 📄 [New Products 2021](New%20Products%202021.pdf)
+- 📄 [P & L (P&L) Report By Markets](P%20%26%20L%20(P%26L)%20Report%20By%20Markets.pdf)
+- 📄 [P & L (P&L) Report By Fiscal Months](P%20%26%20L%20(P%26L)%20Report%20By%20Fiscal%20Months.pdf)
+- 📄 [P & L (P&L) Report By Fiscal Year](P%20%26%20L%20(P%26L)%20Report%20By%20Fiscal%20Year.pdf)
+- 📄 [Top 10 Products with Sales Increase](Top%2010%20Products%20with%20Sales%20Increase.pdf)
+- 📄 [Top 5 Countries - 2021](Top%205%20Countries%20-%202021.pdf)
+- 📄 [Top And Bottom 5 Sold Products](Top%20And%20Bottom%205%20Sold%20Products.pdf)
